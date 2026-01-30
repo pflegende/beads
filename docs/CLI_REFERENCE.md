@@ -1,4 +1,6 @@
 # CLI Command Reference
+origin : https://github.com/steveyegge/beads/edit/main/docs/CLI_REFERENCE.md
+forked 30.1.2026, 13:27:17
 
 **For:** AI agents and developers using bd command-line interface  
 **Version:** 0.21.0+
